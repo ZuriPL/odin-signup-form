@@ -189,6 +189,7 @@ a:hover {
 @media screen and (max-height: 660px) {
     body {
         overflow-y: scroll;
+        height: 100%;
     }
     .wrapper {
         align-items: flex-start;
